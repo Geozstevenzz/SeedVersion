@@ -3,14 +3,14 @@
     "latest_version": "1.1.0",
     "latest_build_number": 308,
     "update_url": "https://apps.apple.com/us/app/seedshare-app/id6757470786",
-    "release_notes": "Bug fixes and improvements",
+    "release_notes": "Free tier upsells, leaderboard rewards, and community search",
     "updated_at": "2026-03-19T00:00:00Z"
   },
   "android": {
     "latest_version": "1.1.0",
     "latest_build_number": 308,
     "update_url": "https://play.google.com/store/apps/details?id=com.seedshare.app",
-    "release_notes": "Bug fixes and improvements",
+    "release_notes": "Free tier upsells, leaderboard rewards, and community search",
     "updated_at": "2026-03-19T00:00:00Z"
   }
 }
