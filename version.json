@@ -1,14 +1,14 @@
 {
   "ios": {
-    "latest_version": "1.1.124",
-    "latest_build_number": 466,
+    "latest_version": "1.1.123",
+    "latest_build_number": 465,
     "update_url": "https://apps.apple.com/us/app/seedshare-app/id6757470786",
     "release_notes": "Wishlist, reviews, decline-with-reason, custom notifications, Arabic/RTL, new profile menu, cleaner Explore, plus new seed categories",
     "updated_at": "2026-05-18T00:00:00Z"
   },
   "android": {
-    "latest_version": "1.1.124",
-    "latest_build_number": 466,
+    "latest_version": "1.1.123",
+    "latest_build_number": 465,
     "update_url": "https://play.google.com/store/apps/details?id=com.seedshare.app",
     "release_notes": "Wishlist, reviews, decline-with-reason, custom notifications, Arabic/RTL, new profile menu, cleaner Explore, plus new seed categories",
     "updated_at": "2026-05-18T00:00:00Z"
