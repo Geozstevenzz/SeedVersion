@@ -1,16 +1,16 @@
 {
   "ios": {
-    "latest_version": "1.1.93",
-    "latest_build_number": 432,
+    "latest_version": "1.1.124",
+    "latest_build_number": 466,
     "update_url": "https://apps.apple.com/us/app/seedshare-app/id6757470786",
-    "release_notes": "Tappable profiles, image attachments in chats, clearer error messages",
-    "updated_at": "2026-04-19T00:00:00Z"
+    "release_notes": "Wishlist, reviews, decline-with-reason, custom notifications, Arabic/RTL, new profile menu, cleaner Explore, plus new seed categories",
+    "updated_at": "2026-05-18T00:00:00Z"
   },
   "android": {
-    "latest_version": "1.1.93",
-    "latest_build_number": 432,
+    "latest_version": "1.1.124",
+    "latest_build_number": 466,
     "update_url": "https://play.google.com/store/apps/details?id=com.seedshare.app",
-    "release_notes": "Tappable profiles, image attachments in chats, clearer error messages",
-    "updated_at": "2026-04-19T00:00:00Z"
+    "release_notes": "Wishlist, reviews, decline-with-reason, custom notifications, Arabic/RTL, new profile menu, cleaner Explore, plus new seed categories",
+    "updated_at": "2026-05-18T00:00:00Z"
   }
 }
