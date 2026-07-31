@@ -7,10 +7,10 @@
     "updated_at": "2026-07-26T00:00:00Z"
   },
   "android": {
-    "latest_version": "1.1.133",
-    "latest_build_number": 478,
+    "latest_version": "1.1.132",
+    "latest_build_number": 477,
     "update_url": "https://play.google.com/store/apps/details?id=com.seedshare.app",
     "release_notes": "New Seed Requests section in the Community Hub shows who is looking for which seeds, the Ongoing Trades feed surfaces more community activity, seed names and photos stay visible on swap requests even if the listing is removed, plus performance and reliability improvements",
-    "updated_at": "2026-07-26T00:00:00Z"
+    "updated_at": "2026-07-31T17:40:44Z"
   }
 }
