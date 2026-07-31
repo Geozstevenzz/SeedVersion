@@ -1,16 +1,16 @@
 {
   "ios": {
-    "latest_version": "1.1.135",
-    "latest_build_number": 480,
+    "latest_version": "1.1.132",
+    "latest_build_number": 477,
     "update_url": "https://apps.apple.com/us/app/seedshare-app/id6757470786",
-    "release_notes": "Navigation settings now update in real time, so tab and Community Hub section changes appear without restarting the app, plus performance and reliability improvements",
-    "updated_at": "2026-07-31T20:22:53Z"
+    "release_notes": "New Seed Requests section in the Community Hub shows who is looking for which seeds, the Ongoing Trades feed surfaces more community activity, seed names and photos stay visible on swap requests even if the listing is removed, plus performance and reliability improvements",
+    "updated_at": "2026-07-31T20:23:51Z"
   },
   "android": {
-    "latest_version": "1.1.135",
-    "latest_build_number": 480,
+    "latest_version": "1.1.132",
+    "latest_build_number": 477,
     "update_url": "https://play.google.com/store/apps/details?id=com.seedshare.app",
-    "release_notes": "Navigation settings now update in real time, so tab and Community Hub section changes appear without restarting the app, plus performance and reliability improvements",
-    "updated_at": "2026-07-31T20:22:53Z"
+    "release_notes": "New Seed Requests section in the Community Hub shows who is looking for which seeds, the Ongoing Trades feed surfaces more community activity, seed names and photos stay visible on swap requests even if the listing is removed, plus performance and reliability improvements",
+    "updated_at": "2026-07-31T20:23:51Z"
   }
 }
